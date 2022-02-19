@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": 123,
+      "id": 1,
       "category": "animal welfare",
       "title": "Cat Adoption Day",
       "description": "Find your new feline friend at this event.",
@@ -11,7 +11,7 @@
       "organizer": "Kat Laydee"
     },
     {
-      "id": 456,
+      "id": 2,
       "category": "food",
       "title": "Community Gardening",
       "description": "Join us as we tend to the community edible plants.",
@@ -21,12 +21,42 @@
       "organizer": "Fern Pollin"
     },
     {
-      "id": 789,
+      "id": 3,
       "category": "sustainability",
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
       "location": "Playa Del Carmen",
       "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": 4,
+      "category": "gardening",
+      "title": "Community Garden Plant",
+      "description": "Enjoy the community garden",
+      "location": "Ipswich, MA",
+      "date": "July 23, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": 5,
+      "category": "education",
+      "title": "Free Intro to Programming Course",
+      "description": "Learn to proram",
+      "location": "Newburyport, MA",
+      "date": "July 24, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": 6,
+      "category": "nature",
+      "title": "Seashore Bike Tour",
+      "description": "Enjoy the seashore from your bike",
+      "location": "Newburyport, MA",
+      "date": "July 26, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
     }
